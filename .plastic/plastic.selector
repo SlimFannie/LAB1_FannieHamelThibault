@@ -1,0 +1,4 @@
+repository "LAB1_FannieHamelThibault@Fannistan@cloud"
+  path "/"
+    smartbranch "/main"          
+     
